@@ -22,5 +22,8 @@ public class PurebaGit {
     public static int suma(int a, int b){
         return a+b;
     }
+    public static void hola(){
+        System.out.print("Rafael Alvarez");
+    }
     
 }
